@@ -1,0 +1,70 @@
+Hi, My name is BloodRiver! And I'll help you to create your: Minecraft Pvp Server Setup! (free). Part- 1
+
+First, we have to know requirements to create a pvp server! 
+Requirements:
+1: Hosting
+2: Plugin (free or paid)
+3: Configuration
+4: Icons and Motd (Message of the Day)
+
+• Hosting: For creating a public pvp server we have to choose a host which offers good Product! Minimum we want some things like:
+
+1: 8 gb ram server minimum (for 50 to 100 players)
+2: C.P.U at least we want to amount of 500% cpu. 
+3: Disk at least we want 5 to 8 gb Disk.
+4: Slots (Bonus) Player slots also matters because if you have created your new minecraft server, Players will take some time to know your server.
+So, I will be better if you set your server slots to 20 to 50.
+
+• Plugins: For creating any type of minecraft server Plugins are very nessacary! [Accept Survival]. Without plugin any type of server cannot be made. Some basic plugins which are quite essential for a PvP server are:
+
+1: Via version (For new minecraft version/clients players)
+2: Via backwards (For old minecraft version/clients players)
+3: Nlogin or any other secure login plugin (For security)
+4: EssentialsX (For warps and Other Configurations)
+5: Clearlagg (For removing dropped entities to reduce lag)
+6: Duels/Phoenix duels (For dueling a player [1v1])
+7: Player kits 2 (For creating kits to give everyone)
+7: Citizens/Znpcs (For Creating Npc)
+8: FastAsyncWorldEdit/World edit for Bukkit (For placing lobbys, arenas, maps, etc things where you want)
+9: World Guard (For Protecting Blocks that you don't want to be breaded by comman Citizens)
+10: TAB (For creating tablist and Scoreboards)
+11: Luckperms (For giving player permission that you want according to their ranks)
+
+These are some basic plugins to create a server. We can Also add more to make out server more good and engaging.
+
+• Configuration: Now, I'll tell you how you can config your plugind to Make your server more good! 
+
+1: Via Version [No Configuration]
+2: Via Backwards [No Configuration]
+3: Nlogin [You can configure your title and message! Means, when player joins your server! Title comes (in green color) "Login" with subtitle (in Grey color) Use /login <password>. It comes only when you have already registered in that server! On joining first time it shows title (in green color) "Register" with subtitle (in Grey color) use /register <password> <confirm Password>]
+4: EssentialsX [This plugin offers a huge variety of Configuration to configure. In this plugin we can customize many things like: Op (Operater person color), warps, custom join and quit messages, custom chat settings, custom band, kicks, templ ban, timeout, mute etc things to configure]
+5: ClearLagg [This Plugin allows you to configure its prefix name. e.gv: Plugin Prefix: &7[&bEarthMC&7]. These &7, &b are color codes in minecraft for example some popular color codes used in popular servers are: &#fb1818 (bright red), #FFFF2E (light yellow), &#651FFF (dark purple), &a (light green), &b (aqua), &7 (orange) etc... And this plugin Also let you configure messages with its prefix too]
+6: Duels/Phoenix Duels (Duels is a free plugin while Phoenix duels is a paid plugin. By seeking this huge difference both plugin has some comman/different changes. like:
+
+Difference between Duels (free) and Phoenix duels (paid) plugin:
+_________________________________________________________________________
+|      Duels              |          Phoenix Duels                       |
+|1: Duels allows player   |    Phoenix duels also allows allows player   |
+|to customize its gui.    |    to customize its gui.                     |
+|                         |                                              |
+|2: This Does not regen   |    This regen arena by itself after a duel.  |
+|arena by itself. It      |    It does not need any extra pl.            |
+|needs a extension pl.    |                                              |
+|                         |                                              |
+|3: It need a extension   |    {"It does not need: any type'; of exten-  |
+|pl to make a scoreboard  |    sion pl to make a scoreboard."}           |
+|with extra features.     |                                              |
+|                         |                                              |
+|4: It does not provide   |     It provide a kit editor (personal use)   |
+|any type of kit editor.  |                                              |
+|_________________________|______________________________________________|                                                                                                                                                                                                                                                                                  
+
+7: Player kits 2 [It is used for creating kits so that the player don't want to edit kits gived by server to us. So this plugin is used to kit same kit to all. and this plugin Also offers a variety of features to customize like : prefix, messages, error messages, permissions, kits, etc.....]
+8: Fastasyncworldedit [It is used to place lobbyies,maps,areans or any type of structure which comes in from of schematic. (.schem)]
+9: World Guard [It is used to protect blocks that you dont want to breaked by normal player/citizens. This plugin let you customize some basic settings like: permission of player, custom player permission.pl prefix, error messages, and basic messages.]
+10: TAB [This plugin is very essential to create any type of server (accept survival). Because this plugin offers a variety of configuration to cutomize. Like: Tablist header/footer, below name, above name, tabprefix/tabsuffix, tagprefix/suffix, sidebar, scoreboard, custom animation, and many more....]
+11: Luckperms [This plugin is way too essential for every type of server (including survival). Because, this plugin plays the role of permissions. Means, you can give custom ranks to player, you can give permission to player (either if they are non - rankable). In configuration, this plugin have very good but dangerous feautures. So, i reccommend you to dont do any changes in config.]
+
+These are some basic configuration of some basic plugins. Now let  mocve to next topic:
+
+Not now! I will talk about this in next part. Till then Good Bye!
